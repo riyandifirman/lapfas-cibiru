@@ -1,0 +1,15 @@
+.user-icon {
+  background-color: #002955 !important;
+}
+.user-icon.power-user {
+  background-color: #f2435a !important;
+}
+.home-wrapper.start-page {
+  background-color: #002955 !important;
+}
+.still_have_a_question {
+  background-color: #002955 !important;
+}
+.login.btn.btn-info {
+  background-color: #74bfbd !important;
+}
